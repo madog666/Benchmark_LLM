@@ -87,3 +87,6 @@ You can now run any of the seven LLM inference notebooks (`.ipynb` files).
 - `MODEL_PATH`: Specifies the output GGUF file name.
 - `INPUT_JSON `: The path to the inference dataset. Refer to `./sample/TiJian_45.json` for an example of the expected data format.
 - `OUTPUT_JSON`: The directory where the inference results will be saved.
+
+## 6. Thx
+We sincerely thank the Hugging Face platform, the developers and authors of the seven LLMs, and the authors and contributors of `llama.cpp` for making their work openly available to the research community.
